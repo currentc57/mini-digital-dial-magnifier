@@ -1,4 +1,4 @@
-# dial-reader-mini
+# cbc-mini-ddm
   An inexpensive and simple Digital Dial Magnifier.  
 Designed to run on a small RP2040 Raspberry Pi Pico Development board with 0.42 inch LCD and using a quadrature encoder.
 
