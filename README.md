@@ -11,11 +11,11 @@ However, this code avoids using micro-controller specific libraries, where possi
 that support Arduino code relatively easy.  This should allow users to port the code to other Arduino compatible microcontrollers. 
   
 This code is written to use either
-  - the Earle F. Philhower arduino-pico core https://github.com/earlephilhower/arduino-pico 
-  - When uploading, you will need to select the "Seeed XIAO RP2040" board.
-or
-  - the Arduino core for the Espressif ESP32 https://github.com/espressif/arduino-esp32/
-  - When uploading, you will need to select the "ESP32C3 Dev Module" board.
+  1. the Earle F. Philhower arduino-pico core https://github.com/earlephilhower/arduino-pico 
+    - When uploading, you will need to select the "Seeed XIAO RP2040" board.
+  
+  2. the Arduino core for the Espressif ESP32 https://github.com/espressif/arduino-esp32/
+    - When uploading, you will need to select the "ESP32C3 Dev Module" board.
   
 The display code uses the Universal 8 bit Graphics Library by olikraus https://github.com/olikraus/u8g2/ 
   
