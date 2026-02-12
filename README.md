@@ -8,7 +8,7 @@ The Mini DDM divides one turn of the dial into 4000 steps.  On a standard 100 nu
 
 The Mini DDM  is mounted to the safe door using an adjustable magnetic base.  It is connected to the safe dial using flexible couplers, one of which is connected directly to the dial with either hot-glue or double sided tape.  The use of two flexible couplers allows for a slightly off center and/or misaligned connection without binding.
 
-The Mini Digital Dial Magnifier is an open source project released without any warranty or support of any kind.  If you require technical support, the more capable **_Dial Reader_** and **_Dial Reader Pro_** can be purchased fully assembled and supported by contacting [sales@charlesbuildscrap.com](mailto:sales@charlesbuildscrap.com).  
+The Mini Digital Dial Magnifier is an open source project released without any warranty or support of any kind.  ~~If you require technical support, the more capable **_Dial Reader_** and **_Dial Reader Pro_** can be purchased fully assembled and supported by contacting [sales@charlesbuildscrap.com](mailto:sales@charlesbuildscrap.com).~~  
 
 
 ### **Build Instructions:**
